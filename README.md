@@ -1,1 +1,3 @@
 # ubuntu
+The repo has been created as a kind of memory note...
+Just to have some "automatic" install of the tools I consider usefull.
